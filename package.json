@@ -1,0 +1,18 @@
+{
+  "name": "pokerbot",
+  "version": "1.0.0",
+  "description": "Distill article on poker bot",
+  "main": "index.js",
+  "repository": "https://github.com/JWonz/pokerbot.git",
+  "author": "Joshua Wonser <joshua.wonser@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "d3": "^4.13.0",
+    "material-design-icons": "^3.0.1",
+    "npm": "^5.8.0",
+    "socks": "^2.2.0"
+  },
+  "scripts": {
+    "build": "cp -rf node_modules/material-design-icons/iconfont/ public/ && node bin/include.js > public/index.html"
+  }
+}

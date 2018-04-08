@@ -1,0 +1,14 @@
+4/8/2018
+
+Project: Create Distill article for a reinforcement learning poker bot
+
+Backlog:
+- An interface to display poker cards
+- A simple reinforcement learning bot that takes input, reward, and optimizes
+- Interface to display predictions from RL algorithm
+- Full poker game app in browser
+- Article write-up explaining the creation of the bot, and each demo. The paragraphs of text.
+
+First Sprint: Deadline EOD 4/8
+- Simple RL Bot optimizing actions given input, reward (4-8 hours)
+
